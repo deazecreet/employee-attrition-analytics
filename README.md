@@ -43,7 +43,9 @@ python prediction.py
 *Business Dashboard* berisi visualisasi-visualisasi data dari 7 variabel kategorik (`OverTime`, `EnvironmentSatisfaction`, `JobInvolvement`, `JobSatisfaction`, `MaritalStatus`, `WorkLifeBalance`, `JobLevel`) dan 5 variabel numerik (`Age`, `TotalWorkingYears`, `YearsAtCompany`, `MonthlyIncome`, `DistanceFromHome`)
 
 *Username* Metabase: azelpetrov@mail.com
+
 *Password* Metabase: azelpetrov123
+
 *Dashboard Link*: [Kunjungi Link Dashboard](http://localhost:3001/public/dashboard/caf864ac-cb91-492f-9f3c-27f1785c5649)
 
 ## Conclusion
